@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+ HEAD
 # AAR Sa Xarala 🔐
 
 **AAR Sa Xarala** est un gestionnaire de mots de passe sécurisé pour protéger vos secrets numériques.
